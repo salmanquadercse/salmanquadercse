@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Md. Abdul Quader
+# Hi, I'm Md. Abdul Quader
 
 ### 💻 Full Stack Web Developer | 🔁 API Integrator | 🚀 DevOps Explorer
 
