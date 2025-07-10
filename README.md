@@ -15,7 +15,7 @@
 ✓ Scheduler/CronJob Events (Windows, Linux)  
 ✓ Flutter (Intermediate Level)  
 ✓ Server: Apache, Nginx, Docker, Linux, Windows CronJobs  
-✓ Tools: Git, Docker, VS Code, Linux CLI, SSL Integration  
+✓ Tools: Git, Docker, CI/CD, VS Code, Linux CLI, SSL Integration  
 ```
 
 ---
